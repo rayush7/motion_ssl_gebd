@@ -14,6 +14,7 @@ The Code for "Motion Aware Self-Supervision for Generic Event Boundary Detection
 ##### Visualisation of the predicted boundaries
 ![Boundary Visualisation](./figs/boundary_vis.png) 
 
+#### Please cite our paper 
 
 #### Credits
 Our code has been largely borrowed from following repositories. 
