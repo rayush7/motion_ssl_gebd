@@ -15,7 +15,5 @@ The Code for "Motion Aware Self-Supervision for Generic Event Boundary Detection
 Our code has been largely borrowed from following repositories. 
 
 [https://github.com/StanLei52/GEBD](https://github.com/StanLei52/GEBD)
-
 [https://github.com/amazon-science/video-contrastive-learning](https://github.com/amazon-science/video-contrastive-learning)
-
 [https://github.com/arunos728/MotionSqueeze](https://github.com/arunos728/MotionSqueeze)
