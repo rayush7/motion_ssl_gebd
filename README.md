@@ -1,5 +1,6 @@
 # Motion Aware Self-supervised learning for Generic Event Boundary Detection (WACV 2023)
-The Code for "Motion Aware Self-Supervision for Generic Event Boundary Detection" will be uploaded here.
+The Code for "Motion Aware Self-Supervision for Generic Event Boundary Detection" will be uploaded here.  
+Paper Link : [https://arxiv.org/pdf/2210.05574.pdf](https://arxiv.org/pdf/2210.05574.pdf)
 
 #### Pre-requisites
 
